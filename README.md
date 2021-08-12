@@ -1,6 +1,6 @@
 # My C++ Works
 
-### These files are all written in C++ and they're the codes I wrote when I'm learning C++. Some of them are the basic grammar for C++, some of them are the simple algorithms.
+### These files are all written in C++ and they're the codes I wrote when I'm learning C++. Some of them are the basic grammar for C++, some of them are the simple algorithms. Some of them have bugs (a lot of), some of them couldn't even execute.
 
 #### Under Construction.
 
