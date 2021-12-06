@@ -1,10 +1,3 @@
-//
-//  main.cpp
-//  ACSL_00n
-//
-//  Created by California Institute of Technology on 2/17/21.
-//
-
 #include <iostream>
 #include <string>
 #include <vector>
