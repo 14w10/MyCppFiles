@@ -1,10 +1,3 @@
-//
-//  main.cpp
-//  leetcode_excel
-//
-//  Created by California Institute of Technology on 2/9/21.
-//
-
 #include <iostream>
 #include <vector>
 using namespace std;
