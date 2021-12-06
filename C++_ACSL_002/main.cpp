@@ -1,10 +1,3 @@
-//
-//  main.cpp
-//  ACSL_RUN
-//
-//  Created by California Institute of Technology on 3/19/21.
-//
-
 #include <iostream>
 #include <vector>
 #include <string>
