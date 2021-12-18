@@ -6,8 +6,10 @@
 
 ### Visit my personal website: [binaryphi.site][1]
 ### Visit [dsaerf-calmit.github.io][2]
-### Just finished ####USACO-2021-Dec ###, started from [Bronze][3]. 
-### [Question1(2021Dec-Bronze)][5]; [Question2(2021Dec-Bronze)][6]; [Question3(2021Dec-Bronze)(Haven't Uploaded & Link to binaryphi.site)][7]
+### Just finished USACO-2021-Dec, started from [Bronze][3]. 
+### [Question1(2021Dec-Bronze)][5]
+### [Question2(2021Dec-Bronze)][6]
+### [Question3(2021Dec-Bronze)(Haven't Uploaded & Link to binaryphi.site)][7]
 ### One of the most satisfying work of mine: [SOKUDO][4]
 
 [1]: https://binaryphi.site
