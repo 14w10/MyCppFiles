@@ -6,8 +6,14 @@
 
 ### Visit my personal website: [binaryphi.site][1]
 ### Visit [dsaerf-calmit.github.io][2]
-### One of the most satisfying work of mine: [SOKUDO][3]
+### Just finished ####USACO-2021-Dec ###, started from [Bronze][3]. 
+### [Question1(2021Dec-Bronze)][5]; [Question2(2021Dec-Bronze)][6]; [Question3(2021Dec-Bronze)(Haven't Uploaded & Link to binaryphi.site)][7]
+### One of the most satisfying work of mine: [SOKUDO][4]
 
-[1]: http://binaryphi.site
+[1]: https://binaryphi.site
 [2]: https://dsaerf-calmit.github.io
-[3]: https://github.com/DSAERF-CALMIT/My-C-plus-plus-Files/blob/main/Sokudo/main.cpp
+[3]: https://github.com/DSAERF-CALMIT/MyCppFiles/tree/main/USACO
+[4]: https://github.com/DSAERF-CALMIT/MyCppFiles/blob/main/Sokudo/main.cpp
+[5]: https://github.com/DSAERF-CALMIT/MyCppFiles/blob/main/USACO/USACOBronze%231%232021%2312%23LonelyPhoto/main.cpp
+[6]: https://github.com/DSAERF-CALMIT/MyCppFiles/blob/main/USACO/USACOBronze%232%232021%2312%23AirCownditioning/main.cpp
+[7]: https://binaryphi.site/404/
