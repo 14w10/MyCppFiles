@@ -8,12 +8,12 @@
 
 | __USACO__ | _Time_ | _Division_ | _Question#_ | _Result_ | _File_ |
 | :-------: | :----: | :--------: | :--------- | :--------- | :--------- |
-| | 2021-Dec | Bronze | Q1-LonelyPhoto | `***********` `11/11` | [main.cpp][5] 
-| | | | Q2-AirCownditioning | `**********` `10/10` | [main.cpp][6]|
-| | | | Q3-WalkingHome | `*********************` `21/21` | [main.cpp][7] |
-| | 2021-Dec | Silver | Q1 | Incomplete | | 
-| | | | Q2 | `**********` `10/10` | [main.cpp][8] |
-| | | | Q3 | `********************` `20/20` | [main.cpp][9] |
+| | 2021-Dec | Bronze | Q1 - `Lonely Photo` | `***********` `11/11` | [main.cpp][5] 
+| | | | Q2 - `Air Cownditioning` | `**********` `10/10` | [main.cpp][6]|
+| | | | Q3 - `Walking Home` | `*********************` `21/21` | [main.cpp][7] |
+| | 2021-Dec | Silver | Q1 - `Closest Cow Wins` | Incomplete | | 
+| | | | Q2 - `Connecting Two Barns` | `**********` `10/10` | [main.cpp][8] |
+| | | | Q3 - `Convoluted Intervals` | `********************` `20/20` | [main.cpp][9] |
 | | | Gold | | | |
 
 
