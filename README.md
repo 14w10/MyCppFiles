@@ -8,13 +8,13 @@
 
 | __USACO__ | _Time_ | _Division_ | _Question#_ | _Result_ | _File_ |
 | :-------: | :----: | :--------: | :--------- | :--------- | :--------- |
-| | 2021-Dec | Bronze | Q1-LonelyPhoto | `***********` `11/11` | [main.cpp][5] 
-| | | | Q2-AirCownditioning | `**********` `10/10` | [main.cpp][6]|
-| | | | Q3-WalkingHome | `*********************` `21/21` | [main.cpp][7] |
-| | 2021-Dec | Silver | Q1 | Incomplete | | 
-| | | | Q2 | `**********` `10/10` | [main.cpp][8] |
-| | | | Q3 | `********************` `20/20` | [main.cpp][9] |
-| | | Gold | | | |
+| | 2021-Dec | Bronze | Q1 - `Lonely Photo` | `***********` `11/11` | [main.cpp][5] 
+| | | | Q2 - `Air Cownditioning` | `**********` `10/10` | [main.cpp][6]|
+| | | | Q3 - `Walking Home` | `*********************` `21/21` | [main.cpp][7] |
+| | 2021-Dec | Silver | Q1 - `Closest Cow Wins` | Incomplete | | 
+| | | | Q2 - `Connecting Two Barns` | `**********` `10/10` | [main.cpp][8] |
+| | | | Q3 - `Convoluted Intervals` | `********************` `20/20` | [main.cpp][9] |
+| | 2022 | Gold | | | |
 
 
 ### One of the most satisfying work of mine: [SOKUDO][4]
@@ -29,7 +29,7 @@
 [5]: https://github.com/DSAERF-CALMIT/MyCppFiles/blob/main/USACO/USACOBronze%231%232021%2312%23LonelyPhoto/main.cpp
 [6]: https://github.com/DSAERF-CALMIT/MyCppFiles/blob/main/USACO/USACOBronze%232%232021%2312%23AirCownditioning/main.cpp
 [7]: https://github.com/DSAERF-CALMIT/MyCppFiles/blob/main/USACO/USACOBronze%233%232021%2312%23WalkingHome/main.cpp
-[8]:
-[9]:
+[8]: https://github.com/DSAERF-CALMIT/MyCppFiles/blob/main/USACO/USACOSilver%232%232021%2312%23ConnectingTwoBarns/main.cpp
+[9]: https://github.com/DSAERF-CALMIT/MyCppFiles/blob/main/USACO/USACOSilver%233%232021%2312%23ConvolutedIntervals/main.cpp
 [10]:
 [11]:
