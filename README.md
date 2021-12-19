@@ -6,10 +6,14 @@
 ### Visit [dsaerf-calmit.github.io][2]
 ### Just finished USACO-2021-Dec, started from Division [Bronze][3].
 
-| __USACO__ | _Time_ | _Division_ | _Question1_ | _Question2_ | _Question3_ |
-| :-------: | :----: | :--------: | :---------: | :---------: | :---------: |
-| | 2021-Dec | Bronze | [AC][5] | [AC][6]| [AC][7] |
-| | 2021-Dec | Silver | | | |
+| __USACO__ | _Time_ | _Division_ | _Question#_ | _Result_ | _File_ |
+| :-------: | :----: | :--------: | :--------- | :--------- | :--------- |
+| | 2021-Dec | Bronze | Q1-LonelyPhoto | `***********` `11/11` | [main.cpp][5] 
+| | | | Q2-AirCownditioning | `**********` `10/10` | [main.cpp][6]|
+| | | | Q3-WalkingHome | `*********************` `21/21` | [main.cpp][7] |
+| | 2021-Dec | Silver | Q1 | Incomplete | | 
+| | | | Q2 | `**********` `10/10` | [main.cpp][8] |
+| | | | Q3 | `********************` `20/20` | [main.cpp][9] |
 | | | Gold | | | |
 
 
