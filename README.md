@@ -14,7 +14,7 @@
 | | 2021-Dec | Silver | Q1 - `Closest Cow Wins` | Incomplete | | 
 | | | | Q2 - `Connecting Two Barns` | `**********` `10/10` | [main.cpp][8] |
 | | | | Q3 - `Convoluted Intervals` | `********************` `20/20` | [main.cpp][9] |
-| | | Gold | | | |
+| | 2022 | Gold | | | |
 
 
 ### One of the most satisfying work of mine: [SOKUDO][4]
