@@ -29,7 +29,7 @@
 [5]: https://github.com/DSAERF-CALMIT/MyCppFiles/blob/main/USACO/USACOBronze%231%232021%2312%23LonelyPhoto/main.cpp
 [6]: https://github.com/DSAERF-CALMIT/MyCppFiles/blob/main/USACO/USACOBronze%232%232021%2312%23AirCownditioning/main.cpp
 [7]: https://github.com/DSAERF-CALMIT/MyCppFiles/blob/main/USACO/USACOBronze%233%232021%2312%23WalkingHome/main.cpp
-[8]:
-[9]:
+[8]: https://github.com/DSAERF-CALMIT/MyCppFiles/blob/main/USACO/USACOSilver%232%232021%2312%23ConnectingTwoBarns/main.cpp
+[9]: https://github.com/DSAERF-CALMIT/MyCppFiles/blob/main/USACO/USACOSilver%233%232021%2312%23ConvolutedIntervals/main.cpp
 [10]:
 [11]:
