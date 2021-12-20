@@ -19,11 +19,11 @@
 
 
 
-### Just finished ACSL-2021-Dec, Senior Devision
-| __ACSL__ | _Time_ | _Division_ | _Question#_ | _Result_ | _File_ |
-| :-------: | :----: | :--------: | :--------- | :--------- | :--------- |
-| | 2021-Dec | Senior | `Fibonacci Clock` | `*****` `5/5` | Solution1: [main.cpp][10] | 
-| |  |  |  |  | Solution2: [main.cpp][11] | 
+### Just finished ACSL-2021-Dec, Senior Division
+| __ACSL__ | _Time_ | _Division_ | Difficulty| _Question#_ | _Result_ | _File_ |
+| :------: | :----: | :--------: | :-------: | :---------- | :------- | :----- |
+| | 2021-Dec | Senior | Easy | `Fibonacci Clock` | `*****` `5/5` | Solution1: [main.cpp][10] | 
+| |  |  |  |  |  | Solution2: [main.cpp][11] | 
 
 
 
