@@ -11,15 +11,15 @@
 ## ~~ Keep Uploading -- Under Construction. ~~
 
 ## USACO
-| _Time_ | _Division_ | _Question#_ | _Result_ | _File_ |
-| :----: | :--------: | :--------- | :--------- | :--------- |
-| 2021-Dec | Bronze | Q1 - `Lonely Photo` | `***********` `11/11` | [main.cpp][5] 
-| | | Q2 - `Air Cownditioning` | `**********` `10/10` | [main.cpp][6]|
-| | | Q3 - `Walking Home` | `*********************` `21/21` | [main.cpp][7] |
-| 2021-Dec | Silver | Q1 - `Closest Cow Wins` | `*xxxxxxxxxxxxxxxxxxxx` `1/21` | | 
-| | | Q2 - `Connecting Two Barns` | `**********` `10/10` | [main.cpp][8] |
-| | | Q3 - `Convoluted Intervals` | `********************` `20/20` | [main.cpp][9] |
-| 2022 | Gold | | | |
+| _Time_ | _Division_ | _Q_ | _Name_ | _Result_ | _File_ |
+| :----: | :--------: | :-: | :--------- | :--------- | :--------- |
+| 2021-Dec | Bronze | 1 | `Lonely Photo` | `***********` `11/11` | [main.cpp][5] 
+| | | 2 | `Air Cownditioning` | `**********` `10/10` | [main.cpp][6]|
+| | | 3 | `Walking Home` | `*********************` `21/21` | [main.cpp][7] |
+| 2021-Dec | Silver | 1 | `Closest Cow Wins` | `*xxxxxxxxxxxxxxxxxxxx` `1/21` | | 
+| | | 2 | `Connecting Two Barns` | `**********` `10/10` | [main.cpp][8] |
+| | | 3 | `Convoluted Intervals` | `********************` `20/20` | [main.cpp][9] |
+| 2022 | Gold | | | | |
 
 
 
