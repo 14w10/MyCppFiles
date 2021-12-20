@@ -2,7 +2,7 @@
 
 ## These files are all written in C++ and they're the codes I wrote for the learning of C++. Some of them are the basic grammar in C++, some of them are the simple algorithms. 'Most' of them have bugs, some of them couldn't even execute.
 
-## Please Click `Star` before reading and copying ~~
+## Please Click `Star` before reading and copying ~~ (I am not responsible for any plagiarism regarding my solutions, these are for study purposes!)
 ### Visit my personal website: [binaryphi.site][1]
 ### Visit [dsaerf-calmit.github.io][2]
 ### Just finished USACO-2021-Dec, started from Division [Bronze][3].
