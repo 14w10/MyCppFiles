@@ -5,31 +5,30 @@
 ## Please Click `Star` before reading and copying ~~ (I am not responsible for any plagiarism regarding my solutions, these are for study purposes!)
 ### Visit my personal website: [binaryphi.site][1]
 ### Visit [dsaerf-calmit.github.io][2]
-### Just finished USACO-2021-Dec, started from Division [Bronze][3].
-
-| __USACO__ | _Time_ | _Division_ | _Question#_ | _Result_ | _File_ |
-| :-------: | :----: | :--------: | :--------- | :--------- | :--------- |
-| | 2021-Dec | Bronze | Q1 - `Lonely Photo` | `***********` `11/11` | [main.cpp][5] 
-| | | | Q2 - `Air Cownditioning` | `**********` `10/10` | [main.cpp][6]|
-| | | | Q3 - `Walking Home` | `*********************` `21/21` | [main.cpp][7] |
-| | 2021-Dec | Silver | Q1 - `Closest Cow Wins` | `*xxxxxxxxxxxxxxxxxxxx` `1/21` | | 
-| | | | Q2 - `Connecting Two Barns` | `**********` `10/10` | [main.cpp][8] |
-| | | | Q3 - `Convoluted Intervals` | `********************` `20/20` | [main.cpp][9] |
-| | 2022 | Gold | | | |
-
-
-
-### Just finished ACSL-2021-Dec, Senior Division
-| __ACSL__ | _Time_ | _Division_ | Difficulty| _Question#_ | _Result_ | _File_ |
-| :------: | :----: | :--------: | :-------: | :---------- | :------- | :----- |
-| | 2021-Dec | Senior | Easy | `Fibonacci Clock` | `*****` `5/5` | Solution1: [main.cpp][10] | 
-| |  |  |  |  |  | Solution2: [main.cpp][11] | 
-
-
-
+### Just finished [USACO-2021-Dec][12], started from Division [Bronze][3].
+### Just finished [ACSL-2021-Dec][13], Senior Division
 ### One of the most satisfying work of mine: [SOKUDO][4]
-
 ## ~~ Keep Uploading -- Under Construction. ~~
+
+## USACO
+| _Time_ | _Division_ | _Question#_ | _Result_ | _File_ |
+| :----: | :--------: | :--------- | :--------- | :--------- |
+| 2021-Dec | Bronze | Q1 - `Lonely Photo` | `***********` `11/11` | [main.cpp][5] 
+| | | Q2 - `Air Cownditioning` | `**********` `10/10` | [main.cpp][6]|
+| | | Q3 - `Walking Home` | `*********************` `21/21` | [main.cpp][7] |
+| 2021-Dec | Silver | Q1 - `Closest Cow Wins` | `*xxxxxxxxxxxxxxxxxxxx` `1/21` | | 
+| | | Q2 - `Connecting Two Barns` | `**********` `10/10` | [main.cpp][8] |
+| | | Q3 - `Convoluted Intervals` | `********************` `20/20` | [main.cpp][9] |
+| 2022 | Gold | | | |
+
+
+
+## ACSL
+| _Time_ | _Division_ | Difficulty| _Question#_ | _Result_ | _File_ |
+| :----: | :--------: | :-------: | :---------- | :------- | :----- |
+| 2021-Dec | Senior | Easy | `Fibonacci Clock` | `*****` `5/5` | Solution1: [main.cpp][10] | 
+|  |  |  |  |  | Solution2: [main.cpp][11] | 
+
 
 
 [1]: https://binaryphi.site
@@ -43,3 +42,5 @@
 [9]: https://github.com/DSAERF-CALMIT/MyCppFiles/blob/main/USACO/USACOSilver%233%232021%2312%23ConvolutedIntervals/main.cpp
 [10]: https://github.com/DSAERF-CALMIT/MyCppFiles/blob/main/ACSL/ACSL%23R1%232021Dec/s1main.cpp
 [11]: https://github.com/DSAERF-CALMIT/MyCppFiles/blob/main/ACSL/ACSL%23R1%232021Dec/s2main.cpp
+[12]: https://github.com/DSAERF-CALMIT/MyCppFiles#USACO
+[13]: https://github.com/DSAERF-CALMIT/MyCppFiles#ACSL
