@@ -45,4 +45,4 @@
 [11]: https://github.com/DSAERF-CALMIT/MyCppFiles/blob/main/ACSL/ACSL%23R1%232021Dec/s2main.cpp
 [12]: https://github.com/DSAERF-CALMIT/MyCppFiles#USACO
 [13]: https://github.com/DSAERF-CALMIT/MyCppFiles#ACSL
-[14]: https://github.com/DSAERF-CALMIT/MyCppFiles/blob/main/USACO/USACOBronze%231%232021%2312%23LonelyPhoto/1.py
+[14]: https://github.com/DSAERF-CALMIT/MyPythonFiles/blob/main/1.py
