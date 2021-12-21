@@ -13,7 +13,8 @@
 ## USACO
 | _Time_ | _Division_ | _Q_ | _Name_ | _Result_ | _File_ |
 | :----: | :--------: | :-: | :--------- | :--------- | :--------- |
-| 2021-Dec | Bronze | 1 | `Lonely Photo` | `***********` `11/11` | [main.cpp][5] 
+| 2021-Dec | Bronze | 1 | `Lonely Photo` | `***********` `11/11` | [main.cpp][5] |
+| | | 1 | Written in Python | `***********` `11/11` | [file.py][14] |
 | | | 2 | `Air Cownditioning` | `**********` `10/10` | [main.cpp][6]|
 | | | 3 | `Walking Home` | `*********************` `21/21` | [main.cpp][7] |
 | 2021-Dec | Silver | 1 | `Closest Cow Wins` | `*xxxxxxxxxxxxxxxxxxxx` `1/21` | | 
@@ -44,3 +45,4 @@
 [11]: https://github.com/DSAERF-CALMIT/MyCppFiles/blob/main/ACSL/ACSL%23R1%232021Dec/s2main.cpp
 [12]: https://github.com/DSAERF-CALMIT/MyCppFiles#USACO
 [13]: https://github.com/DSAERF-CALMIT/MyCppFiles#ACSL
+[14]: https://github.com/DSAERF-CALMIT/MyCppFiles/blob/main/USACO/USACOBronze%231%232021%2312%23LonelyPhoto/1.py
